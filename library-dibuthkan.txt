@@ -1,0 +1,8 @@
+nodejs v.18.19
+
+whatsapp-web.js
+qrcode-terminal
+jsmodbus
+net
+node-schedule
+fs
