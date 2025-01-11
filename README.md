@@ -1,2 +1,2 @@
-# bot-smarthome-plc-wa
+# Smart Home PLC kontrol menggunakan Bot-WhatsApp
 Gunakan dengan bijak
