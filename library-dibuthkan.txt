@@ -1,4 +1,4 @@
-nodejs v.18.19
+// nodejs v.18.19
 
 whatsapp-web.js
 qrcode-terminal
